@@ -10,5 +10,3 @@ Computer Vision note
 *  [opencv-python](https://pypi.org/project/opencv-python/)
 *  [OpenCV-Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 *  [OpenCV-Python Tutorials readthedocs](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
-*  [Face Detection in Python Using a Webcam](https://realpython.com/face-detection-in-python-using-a-webcam/)
-    *  [Webcam-Face-Detect](https://github.com/shantnu/Webcam-Face-Detect)

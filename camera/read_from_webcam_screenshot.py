@@ -8,6 +8,11 @@ while True:
     cv2.imshow("frame", frame)
 
     key = cv2.waitKey(1) & 0xFF
+
+    if key == ord("s"):  # save
+        screenshot_name = "test.jpg"
+        cv2.imwrite(screenshot_name, frame)  # cv2.imread
+        print(f'screenshot: {screenshot_name}')
     if key == ord("q"):
         break
 cap.release()
